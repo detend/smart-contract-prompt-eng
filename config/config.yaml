@@ -1,0 +1,5 @@
+api:
+  provider: "azure"
+  key: "your-api-key"
+  endpoint: "https://your-endpoint.openai.azure.com"
+  model: "your-deployed-model"
